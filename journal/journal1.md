@@ -5,3 +5,7 @@ I spent today mostly focusing on and enhancing the current frontend of Kibo! Add
 <p align="center">
   <img src="../images/journal images/journal1.png" width="750">
 </p>
+
+<p align="center">
+  <img src="../images/journal images/journal1(1).png" width="750">
+</p>
