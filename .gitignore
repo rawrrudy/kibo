@@ -1,0 +1,19 @@
+# Node
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+
+# Environment
+.env
+.env.local
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store

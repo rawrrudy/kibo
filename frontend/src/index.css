@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+
+  background:
+    radial-gradient(circle at 15% 20%, rgba(124, 58, 237, 0.18), transparent 35%),
+    radial-gradient(circle at 85% 80%, rgba(34, 197, 94, 0.12), transparent 30%),
+    linear-gradient(135deg, #0F172A 0%, #111827 45%, #1E1B4B 100%);
+
+  color: #F8FAFC;
+
+  font-family: "Inter", sans-serif;
+
+  overflow-x: hidden;
+
+  background-attachment: fixed;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+button {
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+button:hover {
+  transform: translateY(-2px);
+}
+
+a {
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+::selection {
+  background: #7C3AED;
+  color: white;
+}

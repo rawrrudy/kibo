@@ -1,0 +1,174 @@
+[
+    {
+        "emotion": "happy",
+        "timestamp": "2026-06-10T14:54:56.883563"
+    },
+    {
+        "emotion": "sad",
+        "timestamp": "2026-06-10T14:55:07.546243"
+    },
+    {
+        "emotion": "anxious",
+        "timestamp": "2026-06-10T14:55:17.601947"
+    },
+    {
+        "emotion": "timid",
+        "timestamp": "2026-06-10T14:55:30.128129"
+    },
+    {
+        "emotion": "happy",
+        "timestamp": "2026-06-11T14:08:57.891175"
+    },
+    {
+        "emotion": "sad",
+        "timestamp": "2026-06-11T14:08:59.542997"
+    },
+    {
+        "emotion": "angry",
+        "timestamp": "2026-06-11T14:09:00.899444"
+    },
+    {
+        "emotion": "anxious",
+        "timestamp": "2026-06-11T14:09:01.910560"
+    },
+    {
+        "emotion": "excited",
+        "timestamp": "2026-06-11T14:09:02.931078"
+    },
+    {
+        "emotion": "happy",
+        "timestamp": "2026-06-11T14:20:27.437369"
+    },
+    {
+        "emotion": "sad",
+        "timestamp": "2026-06-11T14:20:29.411621"
+    },
+    {
+        "emotion": "angry",
+        "timestamp": "2026-06-11T14:20:30.631679"
+    },
+    {
+        "emotion": "anxious",
+        "timestamp": "2026-06-11T14:20:32.804098"
+    },
+    {
+        "emotion": "excited",
+        "timestamp": "2026-06-11T14:20:34.360650"
+    },
+    {
+        "emotion": "happy",
+        "timestamp": "2026-06-11T23:52:26.939753"
+    },
+    {
+        "emotion": "anxious",
+        "timestamp": "2026-06-12T00:18:21.213927"
+    },
+    {
+        "emotion": "sad",
+        "timestamp": "2026-06-12T00:18:23.745497"
+    },
+    {
+        "emotion": "happy",
+        "timestamp": "2026-06-12T00:18:24.878966"
+    },
+    {
+        "emotion": "angry",
+        "timestamp": "2026-06-12T00:20:26.636865"
+    },
+    {
+        "emotion": "sad",
+        "timestamp": "2026-06-12T00:20:34.412263"
+    },
+    {
+        "emotion": "angry",
+        "timestamp": "2026-06-15T17:01:18.158276"
+    },
+    {
+        "emotion": "excited",
+        "timestamp": "2026-06-15T17:36:20.696914"
+    },
+    {
+        "emotion": "excited",
+        "timestamp": "2026-06-22T01:27:14.385893"
+    },
+    {
+        "emotion": "happy",
+        "timestamp": "2026-06-22T01:31:38.486733"
+    },
+    {
+        "emotion": "sad",
+        "timestamp": "2026-06-22T01:31:41.644024"
+    },
+    {
+        "emotion": "angry",
+        "timestamp": "2026-06-22T01:31:44.150615"
+    },
+    {
+        "emotion": "anxious",
+        "timestamp": "2026-06-22T01:31:47.599326"
+    },
+    {
+        "emotion": "excited",
+        "timestamp": "2026-06-22T01:31:50.255411"
+    },
+    {
+        "emotion": "sad",
+        "timestamp": "2026-06-22T01:34:43.110757"
+    },
+    {
+        "emotion": "sad",
+        "timestamp": "2026-06-22T01:35:22.959454"
+    },
+    {
+        "emotion": "sad",
+        "timestamp": "2026-06-22T01:58:53.026854"
+    },
+    {
+        "emotion": "happy",
+        "timestamp": "2026-06-22T01:58:58.364366"
+    },
+    {
+        "emotion": "angry",
+        "timestamp": "2026-06-22T01:59:02.084985"
+    },
+    {
+        "emotion": "anxious",
+        "timestamp": "2026-06-22T01:59:04.862447"
+    },
+    {
+        "emotion": "excited",
+        "timestamp": "2026-06-22T01:59:07.168810"
+    },
+    {
+        "emotion": "angry",
+        "timestamp": "2026-06-22T02:16:48.491812"
+    },
+    {
+        "emotion": "anxious",
+        "timestamp": "2026-06-22T20:06:56.670334"
+    },
+    {
+        "emotion": "angry",
+        "timestamp": "2026-06-26T17:26:06.252874"
+    },
+    {
+        "emotion": "happy",
+        "timestamp": "2026-06-26T18:16:20.964916"
+    },
+    {
+        "emotion": "happy",
+        "timestamp": "2026-06-27T01:14:18.795676"
+    },
+    {
+        "emotion": "sad",
+        "timestamp": "2026-06-27T01:14:26.534416"
+    },
+    {
+        "emotion": "sad",
+        "timestamp": "2026-06-27T14:07:02.286553"
+    },
+    {
+        "emotion": "angry",
+        "timestamp": "2026-06-27T14:07:21.350113"
+    }
+]
