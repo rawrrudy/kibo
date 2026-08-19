@@ -1,7 +1,7 @@
 # Journal 10
 
-Started my work on the CAD on Fusion 360! Imported the PCB an will build my enclosure around that.
+Finished the CAD for Kibo! YAYAYAYAYYA! Now just the small potato stuff is left to finally put an end to Kibo!
 
 <p align="center">
-  <img src="../images/journal images/%231.png" width="750">
+  <img src="../images/journal images/FINISHED KIBO.png" width="750">
 </p>
