@@ -73,10 +73,10 @@ Most of todays time went in fixing the miscellaneous errors that I did in the pr
 This session was actually an unproductive one. Just spent another hour continuing my schematic work and nothing much occurred. Hope to have a more productive next session.
 
 <p align="center">
-  <img src="../images/journal images/KiboV2.png" width="550">
+  <img src="../images/journal images/journalentry.png" width="550">
 </p>
 
-## Lapse link: 
+## Lapse link: https://lapse.hackclub.com/timelapse/_9OL0leXBFjI
 
 ---
 
