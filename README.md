@@ -33,6 +33,16 @@ It has a lot of sensors and a custom designed PCB that pieces together Kibo!
  3D view of the PCB used in Kibo!
 </p>
 
+<p align="center">
+  <img src="images/Kibo_Schematic.png" width="500">
+</p>
+<p align="center">
+  <img src="images/Kibo_PWRMGMGT.png" width="500">
+</p>
+<p align="center">
+ Schematic diagram of Kibo!
+</p>
+
 
 
 
