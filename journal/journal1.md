@@ -29,3 +29,9 @@ So, spent most of my time today in enhancing and making the current website bett
 
 
 ## Lapse link: https://lapse.hackclub.com/timelapse/S7I8zirjqjAx
+
+---
+
+# Journal Entry 3
+
+
