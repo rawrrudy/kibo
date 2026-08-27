@@ -34,4 +34,17 @@ So, spent most of my time today in enhancing and making the current website bett
 
 # Journal Entry 3
 
+I am logging this journal after a very long while! I was busy completing other projects for Fallout and Beest so couldnt take out time. Anyways, I started my work on the schematic of Kibo and started laying out the basic essential components like the microprocessor, resistors, capacitors etc. Also began basic connections across the electronic components today!
+
+<p align="center">
+  <img src="../images/journal images/sch.png" width="350">
+</p>
+
+## Lapse link: https://lapse.hackclub.com/timelapse/hq-d3p9BIPCX
+
+---
+
+## Journal Entry 4
+
+
 
