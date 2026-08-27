@@ -136,7 +136,7 @@ I am still fairly confused on how I can efficiently place which component where.
 So finally managed to come up with a solution to the placement of my components. Now the plan is that my USB receptor will sit on the bottom right of the PCB so that it will be easy to later cut out a hole of the USB-Type A pin to the CAD. And for the power management section, I have placed it RIGHT above the usb receptor as it is completely independent and obviously it was the best spot to place it. Remaining resistors, capacitors and all the extras as discussed earlier I have decided to keep on the left side of the PCB so that it would be easy to solder and obviously it wont obstruct any other component.
 
 <p align="center">
-  <img src="../images/journal%20images/pcbplan1.png" width="550">
+  <img src="../images/journal%20images/pcbplan2.png" width="550">
 </p>
 
 ## Lapse link: https://lapse.hackclub.com/timelapse/Nwm_jdcFJgBA
