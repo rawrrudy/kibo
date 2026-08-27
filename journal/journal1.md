@@ -112,8 +112,22 @@ FINALLY DONE WITH MY SCHEMATIC YAYAYAYAYAYA. Whew gotta say that this took a LOT
 
 Started off fresh into KiCad with planning and mapping out the placement of where each electronic component would go! Once this gets sorted, (which i believe will take a long, long time) I will move on to actually figuring out how I am going to route this one mess of a PCB. Well lets see about that later!
 
+<p align="center">
+  <img src="../images/journal%20images/routing1.png" width="550">
+</p>
 
 ## Lapse link: https://lapse.hackclub.com/timelapse/IF5BVcbRP5JO
+
+---
+
+# Journal Entry 10
+I am still fairly confused on how I can efficiently place which component where. For example, I obviously plan on keeping the ESP32 at the center and towards its upper left (where in the CAD, only the wall will be there) i plan on keeping the non-involved components such as all the resistors, capacitors etc. Now, this arrangement is having its issues with he ground fill currently. Well I hope in the upcoming session I eventually manage to think of something!
+
+<p align="center">
+  <img src="../images/journal%20images/routing1.png" width="550">
+</p>
+
+## Lapse link: https://lapse.hackclub.com/timelapse/qdKALKwEf3x7
 
 
 
