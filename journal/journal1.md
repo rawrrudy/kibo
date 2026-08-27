@@ -110,6 +110,11 @@ FINALLY DONE WITH MY SCHEMATIC YAYAYAYAYAYA. Whew gotta say that this took a LOT
 
 # Journal Entry 9
 
+Started off fresh into KiCad with planning and mapping out the placement of where each electronic component would go! Once this gets sorted, (which i believe will take a long, long time) I will move on to actually figuring out how I am going to route this one mess of a PCB. Well lets see about that later!
+
+
+## Lapse link: https://lapse.hackclub.com/timelapse/IF5BVcbRP5JO
+
 
 
 
