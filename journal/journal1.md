@@ -85,7 +85,7 @@ This session was actually an unproductive one. Just spent another hour continuin
 Alright! I am like done with the major chunk of the schematic and in this session also added an external power management source to Kibo! I am very excited to finally start with routing my PCB!!!
 
 <p align="center">
-  <img src="../images/journal images/Kibo_PWRMGMGT.png" width="550">
+  <img src="../images/Kibo_PWRMGMGT.png" width="550">
 </p>
 
 ## Lapse link: https://lapse.hackclub.com/timelapse/U1hjjuSv5-ld
@@ -97,11 +97,11 @@ Alright! I am like done with the major chunk of the schematic and in this sessio
 FINALLY DONE WITH MY SCHEMATIC YAYAYAYAYAYA. Whew gotta say that this took a LOT longer than I expected it to take. But now I finally have a complete schematic with the power sorted out and all the components ready to be routed!!! I am now moving on to routing the actual PCB (god its gonna take a whole long time)!
 
 <p align="center">
-  <img src="../images/journal images/Kibo_PWRMGMGT.png" width="550">
+  <img src="../images/Kibo_PWRMGMGT.png" width="550">
 </p>
 
 <p align="center">
-  <img src="../images/journal images/Kibo_Schematic.png" width="550">
+  <img src="../images/Kibo_Schematic.png" width="550">
 </p>
 
 ## Lapse link: https://lapse.hackclub.com/timelapse/rOlEhreOZ3rq
