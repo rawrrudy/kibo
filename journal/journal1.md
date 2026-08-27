@@ -9,7 +9,7 @@ created_at: "2026-06-18"
 
 # Journal Entry 1
 
-I spent today mostly focusing on and enhancing the current frontend of Kibo! Added a few effects like glassmorphism and changed around the layout. Only spent like an hour on Kibo today, but it was heavily crucial! Looking forward to the next session.
+I spent today mostly focusing on and enhancing the current frontend of Kibo! Added a few effects and changed around the layout. This frontend can primarily serve Kibo for now and I can head on to the logo making and later to the PCB and schematic production! Only spent like an hour on Kibo today, but it was heavily crucial! Looking forward to the next session.
 
 <p align="center">
   <img src="../images/journal images/journal1.png" width="750">
