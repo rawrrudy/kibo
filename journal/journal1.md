@@ -24,7 +24,7 @@ I spent today mostly focusing on and enhancing the current frontend of Kibo! Add
 So, spent most of my time today in enhancing and making the current website better. I also created like a small logo for Kibo on the best editing software on earth (yep Figma)! Going to start off with the hardware design soon!
 
 <p align="center">
-  <img src="../images/journal images/logo.png" width="350">
+  <img src="../images/journal images/logo.png" width="550">
 </p>
 
 
@@ -37,22 +37,26 @@ So, spent most of my time today in enhancing and making the current website bett
 I am logging this journal after a very long while! I was busy completing other projects for Fallout and Beest so couldnt take out time. Anyways, I started my work on the schematic of Kibo and started laying out the basic essential components like the microprocessor, resistors, capacitors etc. Also began basic connections across the electronic components today!
 
 <p align="center">
-  <img src="../images/journal images/sch.png" width="350">
+  <img src="../images/journal images/sch.png" width="550">
 </p>
 
 ## Lapse link: https://lapse.hackclub.com/timelapse/hq-d3p9BIPCX
 
 ---
 
-## Journal Entry 4
+# Journal Entry 4
 
 So went halfway through the schematic but realized that the power management seemed to not plan out as it was supposed to. So got rid of some components and replaced some items. This one took a while. Hopefully aim to finish the rest hassle free!
 
-
+<p align="center">
+  <img src="../images/journal images/Screenshot 2026-07-12 190305.png" width="550">
+</p>
 
 ## Lapse link: https://lapse.hackclub.com/timelapse/KcQHf7XceceQ
 
 ---
+
+# Journal Entry 5
 
 
 
