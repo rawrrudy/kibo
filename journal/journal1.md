@@ -124,10 +124,14 @@ Started off fresh into KiCad with planning and mapping out the placement of wher
 I am still fairly confused on how I can efficiently place which component where. For example, I obviously plan on keeping the ESP32 at the center and towards its upper left (where in the CAD, only the wall will be there) i plan on keeping the non-involved components such as all the resistors, capacitors etc. Now, this arrangement is having its issues with he ground fill currently. Well I hope in the upcoming session I eventually manage to think of something!
 
 <p align="center">
-  <img src="../images/journal%20images/routing1.png" width="550">
+  <img src="../images/journal%20images/pcbplan1.png" width="550">
 </p>
 
 ## Lapse link: https://lapse.hackclub.com/timelapse/qdKALKwEf3x7
+
+---
+
+# Journal Entry 11
 
 
 
