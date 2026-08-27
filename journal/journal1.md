@@ -46,5 +46,13 @@ I am logging this journal after a very long while! I was busy completing other p
 
 ## Journal Entry 4
 
+So went halfway through the schematic but realized that the power management seemed to not plan out as it was supposed to. So got rid of some components and replaced some items. This one took a while. Hopefully aim to finish the rest hassle free!
+
+
+
+## Lapse link: https://lapse.hackclub.com/timelapse/KcQHf7XceceQ
+
+---
+
 
 
