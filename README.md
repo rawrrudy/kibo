@@ -19,8 +19,8 @@ It has a lot of sensors and a custom designed PCB that pieces together Kibo!
 
 ## Schematic and PCB Images
 
-<p align="center">
-  <img src="images/cad%20images/KIBO_1.png" width="700">
+<p align="left">
+  <img src="images/Kibo_PCB.png" width="350">
 </p>
 
 
