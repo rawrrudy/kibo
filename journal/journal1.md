@@ -58,5 +58,29 @@ So went halfway through the schematic but realized that the power management see
 
 # Journal Entry 5
 
+Most of todays time went in fixing the miscellaneous errors that I did in the previous session. But still I managed to show some progress in the schematic as I made it much more tidier and also easy to understand which will later help me while routing the PCB. 
+
+<p align="center">
+  <img src="../images/journal images/KiboV2.png" width="550">
+</p>
+
+## Lapse link: https://lapse.hackclub.com/timelapse/TlNTNZHFK43F
+
+---
+
+# Journal Entry 6
+
+This session was actually an unproductive one. Just spent another hour continuing my schematic work and nothing much occurred. Hope to have a more productive next session.
+
+<p align="center">
+  <img src="../images/journal images/KiboV2.png" width="550">
+</p>
+
+## Lapse link: 
+
+---
+
+# Journal Entry 7
+
 
 
