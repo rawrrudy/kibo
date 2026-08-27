@@ -17,6 +17,8 @@ So the primary idea behind Kibo is for it to be a desktop companion that emotion
 
 It has a lot of sensors and a custom designed PCB that pieces together Kibo!
 
+---
+
 ## Schematic and PCB Images
 
 <details>
@@ -65,6 +67,14 @@ It has a lot of sensors and a custom designed PCB that pieces together Kibo!
 
 <br>
 </details>
+
+---
+
+## How to Build/Run?
+
+
+
+
 
 
 
