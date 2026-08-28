@@ -141,6 +141,15 @@ So finally managed to come up with a solution to the placement of my components.
 
 ## Lapse link: https://lapse.hackclub.com/timelapse/Nwm_jdcFJgBA
 
+---
+
+# Journal Entry 12
+
+Okay so the placement design that I had planned had only SOME minor flaws which i fixed! Right now i believe that placement of all the components is done and its FINALLY time to do routing!!! Routing will definitely take a lot of time so I am VERY curious how long it would take. 
+
+
+## Lapse link: https://lapse.hackclub.com/timelapse/Nwm_jdcFJgBA
+
 
 
 
