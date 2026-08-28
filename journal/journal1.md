@@ -171,13 +171,31 @@ Routed some final traces and had to manually route all the GND traces cause I ha
 
 After completing my PCB I started doing some basic research on Automatic Speech Recognizing (ASR) systems and how they fundamentally work. Came across a pretty dope and cool lecture by an accomplished professor in Engineering and watched that lecture till the end. It was a very useful lecture and I definitely learned a lot of things from it.
 
-
+<p align="center">
+  <img src="../images/journal%20images/asr.png" width="550">
+</p>
 
 ## Lapse link: https://lapse.hackclub.com/timelapse/D7tLjoJz0OnE
 
+---
+
 # Journal Entry 15
 
+In  this session I also focused primarily on the research end of my project and started researching on how my speaker (4 Ω, 3 W) will adapt and connect with the microprocessor (ESP32) so watched a quick review video on the same! 
+
+<p align="center">
+  <img src="../images/journal%20images/asr.png" width="550">
+</p>
+
+## Lapse link: https://lapse.hackclub.com/timelapse/McsXMgCqCPQ_
+
+# Journal Entry 16
+
 So before moving on to the CAD, I generated the Gerber files of my PCB and then pushed the PCB to this github repo. After doing that I, for the FIRST TIME in my life, opened Fusion. Gotta say that it was VERY complex looking at all of the dashboard at first, but as I started messing around with things it eventually started making sense.
+
+<p align="center">
+  <img src="../images/journal%20images/gerb.png" width="550">
+</p>
 
 ## Lapse link: 
 
