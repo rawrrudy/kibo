@@ -165,6 +165,22 @@ Routed some final traces and had to manually route all the GND traces cause I ha
 
 ## Lapse link: https://lapse.hackclub.com/timelapse/10Ho6kmtho1i and https://lapse.hackclub.com/timelapse/TDIHzewKLg1E
 
+---
+
+# Journal Entry 14
+
+After completing my PCB I started doing some basic research on Automatic Speech Recognizing (ASR) systems and how they fundamentally work. Came across a pretty dope and cool lecture by an accomplished professor in Engineering and watched that lecture till the end. It was a very useful lecture and I definitely learned a lot of things from it.
+
+
+
+## Lapse link: https://lapse.hackclub.com/timelapse/D7tLjoJz0OnE
+
+# Journal Entry 15
+
+So before moving on to the CAD, I generated the Gerber files of my PCB and then pushed the PCB to this github repo. After doing that I, for the FIRST TIME in my life, opened Fusion. Gotta say that it was VERY complex looking at all of the dashboard at first, but as I started messing around with things it eventually started making sense.
+
+## Lapse link: 
+
 
 
 
