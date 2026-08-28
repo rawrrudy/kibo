@@ -1,4 +1,4 @@
-<img width="1917" height="1005" alt="image" src="https://github.com/user-attachments/assets/5b14dee5-658b-4182-9ce5-6ff1a090c223" />---
+---
 title: Kibo
 author: Rudy
 description: Kibo is a desktop companion that helps manage stress and emotions using visual and audio feedback!
