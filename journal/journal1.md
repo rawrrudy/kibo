@@ -196,10 +196,25 @@ In  this session I also focused primarily on the research end of my project and 
 So before moving on to the CAD, I generated the Gerber files of my PCB and then pushed the PCB to this github repo. After doing that I, for the FIRST TIME in my life, opened Fusion. Gotta say that it was VERY complex looking at all of the dashboard at first, but as I started messing around with things it eventually started making sense.
 
 <p align="center">
-  <img src="../images/journal%20images/gerb.png" width="550">
+  <img src="../images/journal%20images/%231.png" width="550">
 </p>
 
-## Lapse link: 
+## Lapse link: https://lapse.hackclub.com/timelapse/KDGtcCI5wK69
+
+---
+
+# Journal Entry 17
+
+Nothing much in this session just continued my work on the CAD of Kibo.
+
+<p align="center">
+  <img src="../images/journal%20images/%231.png" width="550">
+</p>
+
+## Lapse link: https://lapse.hackclub.com/timelapse/luMtejZqG_Nf
+
+---
+
 
 
 
