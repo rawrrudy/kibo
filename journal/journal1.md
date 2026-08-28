@@ -157,6 +157,14 @@ Okay so the placement design that I had planned had only SOME minor flaws which 
 
 # Journal Entry 13
 
+Routed some final traces and had to manually route all the GND traces cause I had a little issue in the clearance of my traces. Well it seems like my PCB is now OFFICIALY complete! YAYAYAYAYAYAYAYA!!! Now  next I am going to start on the CAD assembly for Kibo on Fusion!
+
+<p align="center">
+  <img src="../images/journal%20images/pcbroute1.png" width="550">
+</p>
+
+## Lapse link: https://lapse.hackclub.com/timelapse/10Ho6kmtho1i and https://lapse.hackclub.com/timelapse/TDIHzewKLg1E
+
 
 
 
