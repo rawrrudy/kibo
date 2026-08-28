@@ -1,4 +1,4 @@
----
+<img width="1917" height="1005" alt="image" src="https://github.com/user-attachments/assets/5b14dee5-658b-4182-9ce5-6ff1a090c223" />---
 title: Kibo
 author: Rudy
 description: Kibo is a desktop companion that helps manage stress and emotions using visual and audio feedback!
@@ -184,10 +184,12 @@ After completing my PCB I started doing some basic research on Automatic Speech 
 In  this session I also focused primarily on the research end of my project and started researching on how my speaker (4 Ω, 3 W) will adapt and connect with the microprocessor (ESP32) so watched a quick review video on the same! 
 
 <p align="center">
-  <img src="../images/journal%20images/asr.png" width="550">
+  <img src="../images/journal%20images/speaker.png" width="550">
 </p>
 
 ## Lapse link: https://lapse.hackclub.com/timelapse/McsXMgCqCPQ_
+
+---
 
 # Journal Entry 16
 
