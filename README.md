@@ -75,6 +75,7 @@ It has a lot of sensors and a custom designed PCB that pieces together Kibo!
 ---
 
 ## How to Build/Run?
+> Note: At the time of writing, this is the first version/prototype of Kibo. After getting my project reviewed and accepted, I plan on adding much more features and the firmware will change based on those factors!
 
 
 
