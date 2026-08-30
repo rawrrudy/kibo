@@ -273,11 +273,34 @@ In this session, I aimed to finally finish the CAD for Kibo and was THIS close t
 # Journal 23
 THIS JOURNAL SESSION MARK THE END OF KIBO'S CAD!!!! YAYAYAYAYAYAYAYAYA!!! Im honestly so excited and happy that it turned out to be quite good as I wasnt expecting that much since it is my very first time using Fusion360. But at the end, it actually looks sick!!! I cant wait to do some more stuff and finally finish the design model of Kibo!
 
+<p align="center">
+  <img src="../images/journal%20images/final.png" width="550">
+</p>
+
 ## Lapse link: https://lapse.hackclub.com/timelapse/pfieaACQo3os
 
 ---
 
 # Journal 24
+In this session, I created the BOM and then later moved onto organizing and tidying my GitHub repo. I started to write the README of my project and am currently still doing that!
+
+<p align="center">
+  <img src="../images/journal%20images/readme.png" width="550">
+</p>
+<p align="center">
+  <img src="../images/journal%20images/bom.png" width="550">
+</p>
+
+## Lapse links: https://lapse.hackclub.com/timelapse/qBUxT1S9Nt9g / https://lapse.hackclub.com/timelapse/jTtSpXNJCmlQ
+
+---
+
+# Journal 25
+Okay this is a REALLY silly one because as I was going through the hardware project guides, I realized that I had been journaling the WRONG way this entire time. So, I had to redo and paste every single one of my journals in the correct form :( It took a while but now I did it the proper way!
+
+## Lapse link: https://lapse.hackclub.com/timelapse/yw0ACnlcs9cb
+
+---
 
 
 
