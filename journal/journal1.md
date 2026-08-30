@@ -252,7 +252,7 @@ In this session, I finally completed the base mounting assembly for Kibo and pla
 Nothing much in this session, just continued on with the CAD. I added all 4 of the walls the right, left middle front and the middle back one and gave them an appropriate thickness and clearance. Later I moved on to make the roof of Kibo and what explicit design to give it.
 
 <p align="center">
-  <img src="../images/journal%20images/walls.png" width="550">
+  <img src="../images/journal%20images/4wall.png" width="550">
 </p>
 
 ## Lapse link: https://lapse.hackclub.com/timelapse/UAPMzd9cqNPz
@@ -260,6 +260,19 @@ Nothing much in this session, just continued on with the CAD. I added all 4 of t
 ---
 
 # Journal 22
+In this session, I aimed to finally finish the CAD for Kibo and was THIS close to actually doing it but ended up getting tired :( But jokes apart the CAD is actually quite close to completing and it also looks very good according to me! It only needs some minor additions to it's roof and then I'm done! What I did mess up was the placement of the switches in my PCB. Because of that I had to spend an extra half hour to come up with a clickable button that can press both the buttons.
+
+<p align="center">
+  <img src="../images/journal%20images/4wall.png" width="550">
+</p>
+
+## Lapse link: https://lapse.hackclub.com/timelapse/yFb6xy3WG26J
+
+---
+
+# Journal 23
+
+
 
 
 
