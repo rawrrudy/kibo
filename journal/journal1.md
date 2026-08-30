@@ -263,7 +263,7 @@ Nothing much in this session, just continued on with the CAD. I added all 4 of t
 In this session, I aimed to finally finish the CAD for Kibo and was THIS close to actually doing it but ended up getting tired :( But jokes apart the CAD is actually quite close to completing and it also looks very good according to me! It only needs some minor additions to it's roof and then I'm done! What I did mess up was the placement of the switches in my PCB. Because of that I had to spend an extra half hour to come up with a clickable button that can press both the buttons.
 
 <p align="center">
-  <img src="../images/journal%20images/4wall.png" width="550">
+  <img src="../images/journal%20images/switch.png" width="550">
 </p>
 
 ## Lapse link: https://lapse.hackclub.com/timelapse/yFb6xy3WG26J
@@ -271,6 +271,13 @@ In this session, I aimed to finally finish the CAD for Kibo and was THIS close t
 ---
 
 # Journal 23
+THIS JOURNAL SESSION MARK THE END OF KIBO'S CAD!!!! YAYAYAYAYAYAYAYAYA!!! Im honestly so excited and happy that it turned out to be quite good as I wasnt expecting that much since it is my very first time using Fusion360. But at the end, it actually looks sick!!! I cant wait to do some more stuff and finally finish the design model of Kibo!
+
+## Lapse link: https://lapse.hackclub.com/timelapse/pfieaACQo3os
+
+---
+
+# Journal 24
 
 
 
