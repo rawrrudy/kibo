@@ -249,6 +249,18 @@ In this session, I finally completed the base mounting assembly for Kibo and pla
 ---
 
 # Journal 21
+Nothing much in this session, just continued on with the CAD. I added all 4 of the walls the right, left middle front and the middle back one and gave them an appropriate thickness and clearance. Later I moved on to make the roof of Kibo and what explicit design to give it.
+
+<p align="center">
+  <img src="../images/journal%20images/walls.png" width="550">
+</p>
+
+## Lapse link: https://lapse.hackclub.com/timelapse/UAPMzd9cqNPz
+
+---
+
+# Journal 22
+
 
 
 
