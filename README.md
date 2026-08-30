@@ -18,7 +18,7 @@ So the primary idea behind Kibo is for it to be a desktop companion that emotion
 It has a lot of sensors and a custom designed PCB that pieces together Kibo!
 
 <p align="center">
-  <img src="images/journal images/logo.png" width="250">
+  <img src="images/journal images/logo.png" width="300">
 </p>
 
 ---
