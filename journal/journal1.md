@@ -218,9 +218,22 @@ Nothing much in this session just continued my work on the CAD of Kibo.
 # Journal 18
 Stopped mid way of my CAD because I was genuinely confused on how I can go about doing the things that I desire to have in the CAD for Kibo. So, started watching a small video on how motion and movement happens in each component in Fusion 360!
 
-
+<p align="center">
+  <img src="../images/journal%20images/rec.png" width="550">
+</p>
 
 ## Lapse link: https://lapse.hackclub.com/timelapse/0pATxqwkgIwP
+
+---
+
+# Journal 19
+OKAY I AM VERY HAPPY RIGHT NOW because I was stuck on extruding some random tiny piece in my assembly and it was highkey taking A LOT of time. I FINALLY MANAGED TO CUT IT NOW!!!!! So the problem was really silly I was trying to cut extrude the WHOLE thing instead of that tiny piece which caused some errors to come :P
+
+<p align="center">
+  <img src="../images/journal%20images/rec.png" width="550">
+</p>
+
+## Lapse link: https://lapse.hackclub.com/timelapse/5AVwQyUiA7UR
 
 
 
