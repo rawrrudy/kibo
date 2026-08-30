@@ -215,6 +215,13 @@ Nothing much in this session just continued my work on the CAD of Kibo.
 
 ---
 
+# Journal 18
+Stopped mid way of my CAD because I was genuinely confused on how I can go about doing the things that I desire to have in the CAD for Kibo. So, started watching a small video on how motion and movement happens in each component in Fusion 360!
+
+
+
+## Lapse link: https://lapse.hackclub.com/timelapse/0pATxqwkgIwP
+
 
 
 
