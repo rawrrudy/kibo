@@ -247,7 +247,29 @@ wifi scan
       <img src="images/cad%20images/KIBO_4.png" width="400">
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="images/cad%20images/KIBO_5.png" width="400">
+    </td>
+    <td align="center">
+      <img src="images/cad%20images/KIBO_6.png" width="400">
+    </td>
+  </tr>
 </table>
+
+## Acknowledgements
+I would like to thank-
+
+[KiCad](https://www.kicad.org/)
+
+[Arduino](https://www.arduino.cc/)
+
+and the entire team at [Horizons | Hack Club](https://horizons.hackclub.com) to conduct such an awesome experience!
+
+## License 
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
 
 
 
