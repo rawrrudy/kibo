@@ -241,7 +241,7 @@ OKAY I AM VERY HAPPY RIGHT NOW because I was stuck on extruding some random tiny
 In this session, I finally completed the base mounting assembly for Kibo and placed the PCB into its mounting holes. After that, I cut and extrude a small opening for the USB to go into. So you can say that this was a productive session after a long while! In the upcoming sessions, I plan on constructing the walls and the roof of Kibo to call it an end!
 
 <p align="center">
-  <img src="../images/journal%20images/stuck.png" width="550">
+  <img src="../images/journal%20images/walls.png" width="550">
 </p>
 
 ## Lapse link: https://lapse.hackclub.com/timelapse/9D8Jisr1xQQV
