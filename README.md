@@ -26,6 +26,8 @@ It has a lot of sensors and a custom designed PCB that pieces together Kibo!
 ## AI Usage
 I only used AI in some parts of the frontend to make it look more user friendly and to add the mechanism of log in streaks. The entire rest of the project was made by me!
 
+---
+
 ## Schematic and PCB Images
 
 <details>
